@@ -1011,14 +1011,6 @@ body {
   background-position: 117% -10%;
 }
 
-#testimonials {
-  /* background-image: url("../images/bg-tablet-pattern.svg"); */
-  background-repeat: no-repeat;
-  background-size: 800px;
-  background-position: 0% 100%;
-  z-index: 2;
-}
-
 main {
   background-image: url("../images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
